@@ -141,7 +141,7 @@
             
         </div>
         <div class="row">
-            <!-- three boxes -->
+            
             <div class="col-6">
             <div>
             <ol type="1" id="food-list">

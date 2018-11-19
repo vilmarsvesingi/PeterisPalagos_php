@@ -19,10 +19,8 @@ switch ($page) {
 
     case 'beers':
         include_once 'components/beers.php';
-        break;  
-
-
-        
+        break;
+       
     case 'food':
         include_once 'components/food.php';
         break;

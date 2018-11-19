@@ -33,7 +33,7 @@
                    
         </div>
         <div class="row" id="burger-title">
-            <!-- three boxes -->
+          
             <div class="col-4" >
             Ithaca Flower Power IPA
             </div>
@@ -48,7 +48,7 @@
         </div>
 
                 <div class="row" >
-            <!-- three boxes -->
+           
             <div class="col-4" id="food-list" >
             <b>5 EUR for 0.3l</b>
             <br><b>6.5 EUR for 0.5l</b>
@@ -87,7 +87,7 @@
                                 </div> 
                 <div class="col-8">
                 <div class="row" id="burger-title" style="background: rgba(245, 245, 220, 0.0); border-style: hidden;">
-            <!-- three boxes -->
+      
             <div class="col-12" >
              Fish head oak-aged vanilla world wide stout</div>
             </div>
@@ -113,7 +113,7 @@
             
         </div>
         <div class="row">
-            <!-- three boxes -->
+    
             <div class="col-6">
             <table style="width:100%" id="food-list">
 

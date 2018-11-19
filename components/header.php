@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
         crossorigin="anonymous">
-    <link rel="stylesheet" href="/Galadarbs_php/main.css">
+    <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Alex Brush' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Caesar Dressing' rel='stylesheet'>
-    <title>Gala darba drafts</title>
+    <title>Pub "Peteris Palagos" in Riga</title>
 
 
 </head>
